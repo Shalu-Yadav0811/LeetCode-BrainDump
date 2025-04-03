@@ -1,5 +1,4 @@
 # LeetCode-BrainDump
-#  LeetCode Solutions & Explanations
 ##  Introduction
 This repository contains my solutions to LeetCode problems, along with detailed explanations, approaches, and complexity analysis.  
 The goal is to document my learning process and provide a structured way to revise problem-solving techniques.  
